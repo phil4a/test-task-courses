@@ -1,0 +1,9 @@
+@use './base/reset';
+@use './base/fonts';
+@use './base/variables';
+@use './base/global';
+
+@use './blocks/courses';
+@use './blocks/filters';
+@use './blocks/search';
+@use './blocks/card';

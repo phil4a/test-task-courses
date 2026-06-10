@@ -1,0 +1,13 @@
+{
+	"name": "test-courses",
+	"private": true,
+	"version": "1.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "sass --watch src/scss/style.scss src/style.css",
+		"build": "sass src/scss/style.scss src/style.css --style=compressed"
+	},
+	"devDependencies": {
+		"sass": "^1.100.0"
+	}
+}

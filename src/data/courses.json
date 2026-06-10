@@ -1,0 +1,138 @@
+[
+	{
+		"id": "mk-1",
+		"title": "The Ultimate Google Ads Training Course",
+		"category": "Marketing",
+		"price": 100,
+		"author": "Jerome Bell",
+		"image": "./assets/images/1.webp"
+	},
+	{
+		"id": "mg-1",
+		"title": "Product Management Fundamentals",
+		"category": "Management",
+		"price": 480,
+		"author": "Marvin McKinney",
+		"image": "./assets/images/2.webp"
+	},
+	{
+		"id": "hr-1",
+		"title": "HR Management and Analytics",
+		"category": "HR & Recruiting",
+		"price": 200,
+		"author": "Leslie Alexander Li",
+		"image": "./assets/images/3.webp"
+	},
+	{
+		"id": "mk-2",
+		"title": "Brand Management & PR Communications",
+		"category": "Marketing",
+		"price": 530,
+		"author": "Kristin Watson",
+		"image": "./assets/images/4.webp"
+	},
+	{
+		"id": "ds-1",
+		"title": "Graphic Design Basic",
+		"category": "Design",
+		"price": 500,
+		"author": "Guy Hawkins",
+		"image": "./assets/images/5.webp"
+	},
+	{
+		"id": "mg-2",
+		"title": "Business Development Management",
+		"category": "Management",
+		"price": 400,
+		"author": "Dianne Russell",
+		"image": "./assets/images/6.webp"
+	},
+	{
+		"id": "dv-1",
+		"title": "Highload Software Architecture",
+		"category": "Development",
+		"price": 600,
+		"author": "Brooklyn Simmons",
+		"image": "./assets/images/7.webp"
+	},
+	{
+		"id": "hr-2",
+		"title": "Human Resources – Selection and Recruitment",
+		"category": "HR & Recruiting",
+		"price": 150,
+		"author": "Kathryn Murphy",
+		"image": "./assets/images/8.webp"
+	},
+	{
+		"id": "ds-2",
+		"title": "User Experience. Human-centered Design",
+		"category": "Design",
+		"price": 240,
+		"author": "Cody Fisher",
+		"image": "./assets/images/9.webp"
+	},
+	{
+		"id": "mk-3",
+		"title": "Marketing Strategy: From Zero to Growth",
+		"category": "Marketing",
+		"price": 320,
+		"author": "Arlene McCoy",
+		"image": "./assets/images/1.webp"
+	},
+	{
+		"id": "dv-2",
+		"title": "JavaScript: Modern Patterns and Practices",
+		"category": "Development",
+		"price": 210,
+		"author": "Wade Warren",
+		"image": "./assets/images/2.webp"
+	},
+	{
+		"id": "mg-3",
+		"title": "People Management Essentials",
+		"category": "Management",
+		"price": 180,
+		"author": "Jenny Wilson",
+		"image": "./assets/images/3.webp"
+	},
+	{
+		"id": "hr-3",
+		"title": "Hiring Interview Toolkit",
+		"category": "HR & Recruiting",
+		"price": 90,
+		"author": "Devon Lane",
+		"image": "./assets/images/5.webp"
+	},
+	{
+		"id": "dv-3",
+		"title": "Web Performance for Frontend Developers",
+		"category": "Development",
+		"price": 140,
+		"author": "Annette Black",
+		"image": "./assets/images/6.webp"
+	},
+	{
+		"id": "mk-4",
+		"title": "Marketing Strategy: From Zero to Growth",
+		"category": "Marketing",
+		"price": 200,
+		"author": "Annette Black",
+		"image": "./assets/images/6.webp"
+	},
+	{
+		"id": "hr-4",
+		"title": "Hiring Interview Toolkit",
+		"category": "HR & Recruiting",
+		"price": 190,
+		"author": "Devon Lane",
+		"image": "./assets/images/5.webp"
+	},
+	{
+		"id": "hr-5",
+		"title": "Hiring Interview Toolkit",
+		"category": "HR & Recruiting",
+		"price": 122,
+		"author": "Devon Lane",
+		"image": "./assets/images/5.webp"
+	}
+]

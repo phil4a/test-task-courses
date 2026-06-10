@@ -1,0 +1,19 @@
+body {
+	font-family: var(--font-primary);
+	background: var(--bg);
+	color: var(--text);
+	line-height: 1.35;
+	width: 100vw;
+	overflow-x: hidden;
+}
+
+.page {
+	min-height: 100%;
+	overflow: hidden;
+}
+
+:focus-visible {
+	outline: 3px solid rgba(59, 130, 246, 0.5);
+	outline-offset: 3px;
+	border-radius: 8px;
+}

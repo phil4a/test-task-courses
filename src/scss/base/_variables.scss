@@ -1,0 +1,28 @@
+:root {
+	--container-max: 1230px;
+	--container-padding: 15px;
+
+	--font-primary: 'Lato', sans-serif;
+
+	--bg: #ffffff;
+	--primary: #ff3f3a;
+	--text: #1e212c;
+	--muted: #9a9ca5;
+	--yellow: #ffc83d;
+	--price: #ff4242;
+	--tag-marketing: #03cea4;
+	--tag-management: #5a87fc;
+	--tag-hr: #f89828;
+	--tag-design: #f52f6e;
+	--tag-development: #7772f1;
+
+	--border: #d7dadd;
+	--shadow:
+		0px 80px 80px -20px rgba(154, 156, 165, 0.08), 0px 30px 24px -10px rgba(154, 156, 165, 0.05),
+		0px 12px 10px -6px rgba(154, 156, 165, 0.04), 0px 4px 4px -4px rgba(30, 33, 44, 0.03);
+	--active-shadow:
+		0px 80px 80px -20px rgba(154, 156, 165, 0.16), 0px 30px 24px -10px rgba(154, 156, 165, 0.1),
+		0px 12px 10px -6px rgba(154, 156, 165, 0.08), 0px 4px 4px -4px rgba(30, 33, 44, 0.05);
+
+	--radius: 4px;
+}
