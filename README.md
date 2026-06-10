@@ -1,7 +1,9 @@
 # Тестовое задание
 
 Небольшой каталог онлайн-курсов, сверстанный по макету из Figma. Приложение включает адаптивную сетку карточек, поиск по названию, фильтрацию по категориям и кнопку дозагрузки карточек.
+
 Демо(vercel): [https://test-task-courses.vercel.app/](https://test-task-courses.vercel.app/)
+
 Демо(netlify): [https://test-task-course.netlify.app/](https://test-task-course.netlify.app/)
 
 ## Как запустить
